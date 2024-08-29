@@ -24,11 +24,11 @@ Mentor: NEELA SANTOSH KUMAR </pre>
 </ul>
 <h3>Example </h3>
 <pre>
-  Enter the number of students: 2
-  Enter the Student's name: Alice
-  Enter Alice's grade in Physics: 85.6
-  Enter Alice's grade in Chemistry: 90
-  Enter Alice's grade in Math: 91
+   Enter the number of students: 2
+   Enter the Student's name: Alice
+   Enter Alice's grade in Physics: 85.6
+   Enter Alice's grade in Chemistry: 90
+   Enter Alice's grade in Math: 91
 
   Enter the Student's name: Rayan
   Enter Alice's grade in Physics: 87.6
